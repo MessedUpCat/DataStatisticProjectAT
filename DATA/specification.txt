@@ -1,0 +1,5 @@
+TOC model is Poisson
+NH3 model is normal distributed with claimed mean 0.090000 and known standard deviation 0.01
+DO model is normal distributed with claimed mean 9.000000
+SO4 model is uniform
+Pb model is uniform
