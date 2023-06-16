@@ -2,7 +2,7 @@ Location	Remaining Capacity m2 	Additional requirements	Price/ha	Price to aqquir
 Arcen	3.5		0	0
 Eelde	8		0	0
 Airport Twenthe	25	max 30 solar panels	0	0
-Lelystad	4		160600	642400
+Lelystad	4		0	0
 Zwartemeer	45	Max 5 windmills	71800	3231000
 Rhederbrug	70		67300	4711000
 Roodeschool	85	No windmills	67300	5720500

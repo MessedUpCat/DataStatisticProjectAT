@@ -1,0 +1,15 @@
+Solar type 1 2 3
+Wind tupe A B C 
+
+& (WindData['type'] == 'A')
+
+ & (SolarData['type'] == 1)
+
+Best wind turbine is type C
+Best solar panel is type 2
+
+
+What to do, calculate the mean energy generated in a year by type C and type 2 of a single unit. Than extrapolate that to the ones we will invest in.
+
+
+
